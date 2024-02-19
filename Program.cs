@@ -2,11 +2,15 @@
 Console.WriteLine("Fibonacci numbers");
 while (true)
 {
+    Console.WriteLine("If number >=0 program exit");
+    Console.Write("Enter some number : ");
     var userInput = Console.ReadLine();
+     Console.Clear();
     int number= Convert.ToInt32(userInput);
     if(number>=0)
     FibonaciCounts(number);
     else break;
+    System.Console.WriteLine();
 }
 
 
