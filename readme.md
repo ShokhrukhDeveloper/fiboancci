@@ -15,4 +15,6 @@ The Fibonacci sequence is named for Leonardo Pisano (also known Fibonacci), an I
 then we count fibaonacci number use this method
 ![](/Screenshot/code1.png)
  if you are intenrested in my program show demo version here 👇👇👇
- ![](/Screenshot/demo.gif)
+ -----------------------------------------------------------------------------
+  ![](/Screenshot/demo.gif)
+
